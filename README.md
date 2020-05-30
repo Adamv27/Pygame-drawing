@@ -3,6 +3,7 @@
 Simple drawing program in Python using Pygame
 
 ![](https://raw.githubusercontent.com/Adamv27/Pygame-drawing/master/images/drawing.png)
+
 Ability to change drawing color, clear canvas, and change stroke size
 
 TODO:
